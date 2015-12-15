@@ -1,0 +1,11 @@
+{
+  "name": "react-native-plain-socket",
+  "version": "1.0.0",
+  "description": "socket module for react-native framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phuongtq",
+  "license": "ISC"
+}
