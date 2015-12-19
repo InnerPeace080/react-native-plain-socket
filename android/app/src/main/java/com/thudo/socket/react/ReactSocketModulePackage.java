@@ -9,9 +9,7 @@ import com.facebook.react.uimanager.ViewManager;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by phuongtq on 12/15/2015.
- */
+
 public class ReactSocketModulePackage implements ReactPackage{
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext){
